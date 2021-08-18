@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+This is an attempt to express an idea of Villa Rosa Kempinski's website.
 
-Template Name: Delicious
-Template URL: https://bootstrapmade.com/delicious-free-restaurant-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Some resources such as links have been obtained from their website
